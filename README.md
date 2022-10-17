@@ -1,2 +1,2 @@
 # Design-Patterns
-Design Patterns's Course
+Design Patterns in C# and .NET Course by Dmitri Nesteruk
